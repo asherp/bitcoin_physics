@@ -1,3 +1,6 @@
+
+# 2021-07-05 12:28:56.632116: clock-in
+
 # 2021-07-05 02:09:52.143478: clock-out
 
 * summary of entropy, enthalpy, Gibbs free energy
