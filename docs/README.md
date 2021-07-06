@@ -72,11 +72,11 @@ In Bitcoin, we are interested in the total energy put and released from bitcoin 
 As the bitcoin network grows, we have seen more and more energy being absorbed by bitcoin mining, so the system is clearly endothermic over long time scales. When the hashrate reduces, however, the energy available to mining may be reallocated elsewhere.
 
 
-In Thermite, if the reactants have more energy than the surrounding system, then one might expect a sponanteous reaction to occur. However, there are chemical reactions like Ice packs that occur sponanteous and pull energy from the environment. To understand whether a system is set up for spontaneous reaction, we need to take into account Entropy as well as Enthalpy. 
-
-
 
 ## Gibbs Free Energy
+
+In Thermite, if the reactants have more energy than the surrounding system, then one might expect a sponanteous reaction to occur. However, there are chemical reactions like Ice packs that occur sponanteous and pull energy from the environment. To understand whether a system is set up for spontaneous reaction, we need to take into account Entropy as well as Enthalpy. 
+
 
 The Gibbs Free Energy relates Enthalpy, $\Delta H$, Temperature $T$ and Entropy $\Delta S$ to determine the energy available to work.
 
@@ -106,7 +106,24 @@ $$
 
 What does this tell us about Bitcoin's difficulty adjustment?
 
+## First law of thermodynamics
 
+* Energy is neither created nor destroyed
+* Potential energy and kinetic energy
+* Economic potential?
+* miners only work in a given temperature range
+
+Ant miner: 3050 watts to produce 90 Thz
+
+Further questions:
+
+1. can there only be one POW?
+1. estimations of total energy, efficiency of miners
+1. bitcoin as organism, metabolism
+
+References:
+
+* Scale by Jeffrey West
 
 
 
