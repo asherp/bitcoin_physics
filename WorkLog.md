@@ -1,3 +1,5 @@
+### 2022-01-30 01:04:28.999103: clock-out
+
 * reorg
 * response to  "Bitcoin is not a Battery — it is a Sink" by Elad Verbin
 
