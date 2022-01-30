@@ -1,4 +1,5 @@
-* bitcoin is not a battery article
+* reorg
+* response to  "Bitcoin is not a Battery — it is a Sink" by Elad Verbin
 
 ### 2022-01-29 23:15:39.473113: clock-in
 
