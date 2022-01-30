@@ -16,3 +16,17 @@ While we're on the topic of batteries, to say that  "Bitcoin is not a battery" i
 $$ V = IR $$
 
 The voltage $V$ is the electric potential (in units of J/Coulomb) between two points in a classical electric circuit.  The Current $I$ is the kinetic form of charge (measured in Coulombs/sec). We are not saying that Voltage and Current are the same, but that they are related by a factor proportional to the resistance $R$ (the *difficulty* in moving charge). This may seem like a simple and obvious formula today but [Ohm's law was quite controversial in it's time as well](https://www.youtube.com/watch?v=fk_BpXlfZ8U). Like Bitcoin, it was several years before Ohm's law was recognized for the law of nature that it is.
+
+
+### Comments
+
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/asherp/bitcoin_physics"
+        issue-number="1"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+<div class="utterances"> </div>
+
